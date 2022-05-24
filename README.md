@@ -34,7 +34,3 @@
     ```
 * #### Windows
 Download, extract zip and run script by `python AdminPF.py -af short.txt -u google.com`
-
-<div align="center">
-  <p style="font-size:1px">j</p>
-</div>
