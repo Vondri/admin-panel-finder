@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/vondri/admin-panel-finder" alt="Repo size">
   <img src="https://img.shields.io/github/last-commit/vondri/admin-panel-finder" alt="Last commit">
+  <img src="https://img.shields.io/github/v/tag/vondri/admin-panel-finder" alt="Last tag">
   <img src="https://img.shields.io/github/downloads/vondri/admin-panel-finder/total" alt="Downloads">
   <img src="https://img.shields.io/github/languages/top/vondri/admin-panel-finder" alt="Top">
   <img src="https://img.shields.io/github/license/vondri/admin-panel-finder" alt="License">
